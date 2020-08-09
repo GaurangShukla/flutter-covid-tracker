@@ -1,4 +1,6 @@
-_Please drop a star⭐ if like this project._
+_Please drop a star⭐ if you like this project._
+
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/GaurangShukla/flutter-covid-tracker?style=for-the-badge) ![GitHub commit merge status](https://img.shields.io/github/commit-status/GaurangShukla/flutter-covid-tracker/master/36850b086d9556bc048124075e51ef0e246a4de6?style=for-the-badge) ![GitHub issues](https://img.shields.io/github/issues/GaurangShukla/flutter-covid-tracker?style=for-the-badge) [![GitHub stars](https://img.shields.io/github/stars/GaurangShukla/flutter-covid-tracker?style=for-the-badge)](https://github.com/GaurangShukla/flutter-covid-tracker/stargazers)[![GitHub license](https://img.shields.io/github/license/GaurangShukla/flutter-covid-tracker?style=for-the-badge)](https://github.com/GaurangShukla/flutter-covid-tracker/blob/master/LICENSE)
 
 # Flutter Coronavirus👾 Tracker App
 A Flutter application to track corona cases around the world.
@@ -15,7 +17,7 @@ it fetches information using the apis from https://newsapi.org/ and https://coro
 6. To test connect your android device turn on the usb debugging from developers option and type "flutter run" app will be installed on your device.
 7. To build an apk go to build>generate signed apk and follow the popups and instructions.
 # Technology/Packages used 🎯
-1. Flutter 1
+1. Flutter 
 
    1. cupertino_icons: ^0.1.2
    2. bloc: ^3.0.0
@@ -32,7 +34,7 @@ it fetches information using the apis from https://newsapi.org/ and https://coro
    13. pie_chart: ^3.1.1
    14. charts_flutter: ^0.9.0
 
-2. API 2
+2. API 
 
    1. https://newsapi.org/
    2. https://corona.lmao.ninja/
